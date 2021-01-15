@@ -1,4 +1,5 @@
 # Diamond
+I had many assignments nedding me to print diamonds in some way so I created this algorithm to automatize it for me.
 Small program that creates perfect diamond for all numbers of rows without failing.
 
 Such as 
