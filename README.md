@@ -27,4 +27,4 @@ with this program u can input any number it will still be a diamond even with pa
 
 ## How to run
 
-To get started you can `git clone  https://github.com/DYasser/Diamond.git` and have `Java` installed and initialized. You can run the file then by runing the main class using an IDE.
+To get started you can `git clone  https://github.com/DYasser/Diamond.git` and have `Java` installed and initialized. You can run the file then by running the main class using an IDE.
